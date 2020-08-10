@@ -1,7 +1,7 @@
 # React_Native_TODO_app
 Приложение для учета биржевых сделок
 
-<b>Какую задачу решает проект?</b>
+<b>Какую задачу решает проект?</b><br />
 Приложение представляет собой дневник трейдера. Вы можете добавлять подробное описание
 к каждой сделке, наглядно видеть профит сделки и тд.
 
@@ -26,10 +26,10 @@
   В цикле проходимся по JS объекту в redux, ищем запись с нужным id.
   Перезаписываем state.
   
- <b>Как запустить?</b>
- <code>npm install -g expo-cli</code>
- <code>expo init SchoolCDO</code>
- <code>cd SchoolCDO</code><br />
+ <b>Как запустить?</b><br />
+ <code>npm install -g expo-cli</code><br />
+ <code>expo init SchoolCDO</code><br />
+ <code>cd SchoolCDO</code><br /><br />
  Скопировать содержимое репозитория (с заменой) в папку с проектом SchoolCDO <br />
- <code>npm install</code>
- <code>expo run --tunnel</code>
+ <code>npm install</code><br />
+ <code>expo run --tunnel</code><br />
