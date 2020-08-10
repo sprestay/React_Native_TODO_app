@@ -29,7 +29,8 @@
  <b>Как запустить?</b><br />
  <code>npm install -g expo-cli</code><br />
  <code>expo init SchoolCDO</code><br />
- <code>cd SchoolCDO</code><br /><br />
+ <code>cd SchoolCDO</code><br />
  Скопировать содержимое репозитория (с заменой) в папку с проектом SchoolCDO <br />
+ Затем:<br />
  <code>npm install</code><br />
  <code>expo run --tunnel</code><br />
