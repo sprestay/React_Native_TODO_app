@@ -9,7 +9,7 @@
   - React-Native
   - redux-persist для сохранения данных
   
- <b>Наглядная демонстрация</b>
+ <b>Наглядная демонстрация</b><br />
  Наглядная демонстрация - https://drive.google.com/file/d/1Ty_jQkCggVGqA7OpKNtJOwWTTsDjPAGf/view?usp=sharing
  
  <b>Принцип работы</b>
@@ -27,9 +27,9 @@
   Перезаписываем state.
   
  <b>Как запустить?</b>
- npm install -g expo-cli
- expo init SchoolCDO
- cd SchoolCDO
- Скопировать содержимое репозитория (с заменой) в папку с проектом SchoolCDO
- npm install
- expo run --tunnel
+ <code>npm install -g expo-cli</code>
+ <code>expo init SchoolCDO</code>
+ <code>cd SchoolCDO</code><br />
+ Скопировать содержимое репозитория (с заменой) в папку с проектом SchoolCDO <br />
+ <code>npm install</code>
+ <code>expo run --tunnel</code>
